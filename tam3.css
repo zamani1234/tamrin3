@@ -1,0 +1,97 @@
+body{
+	background-color:#705fb7;
+	
+	
+}
+
+.logo{
+	position:absolute;
+	top:40px;
+	left:50px;
+	
+	
+	
+}
+
+.ill{
+	position:absolute;
+	top:150px;
+	
+	
+	
+	
+}
+
+.buld{
+	color:white;
+	float:right;
+	
+	
+	font-size:50px;
+	
+	
+	
+	
+	
+}
+.right{
+	position: absolute;
+    top: 130px;
+    left: 780px;
+	
+	
+	
+}
+.fan{
+	color:white;
+	font-size:50px;
+	
+	
+	
+	
+}
+
+.pg{
+	color:white;
+	font-size:20px;
+	
+	
+	
+}
+
+.register{
+	color:#9a21af;
+	font-size:22px;
+	border-radius:30px;
+	background-color:white;
+	width:160px;
+	padding:16px;
+	text-align:center;
+	box-shadow:1px 4px 16px #401e7c;
+
+
+}
+
+span{
+	font-size:22px;
+	
+	padding:10px;
+	border-radius:80px;
+	border:2px solid white;
+	margin:5px;
+	color:white;
+
+}
+
+
+.icon{
+	position:absolute;
+	top:600px;
+	right:1px;
+	
+	
+	
+}
+
+
+
